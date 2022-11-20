@@ -1,6 +1,6 @@
 # Calculadora
 
-Neste projeto foquei em fazer uma calculadora com estilo neomorphic.
+Neste projeto foquei em fazer uma calculadora com estilo neumorphic: https://neumorphism.io/
 
 Link do projeto: josuenm.github.io/calculadora
 
